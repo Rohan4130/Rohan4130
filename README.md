@@ -12,8 +12,6 @@ I am a data analyst fresher with hands-on experience in the sales, e-commerce, a
 ![](https://nirzak-streak-stats.vercel.app/?user=Rohan4130&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan4130&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rohan4130&theme=highcontrast&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
